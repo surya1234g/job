@@ -3,7 +3,7 @@ class joe
 private String name;
 public joe()
 {
-name = "joe";
+name = "joe clerk";
 }
 public static void main(String [] args)
 {
