@@ -3,6 +3,7 @@ class haddy
 public static void main(String [] args)
 {
 System.out.println("My name is haddy");
+System.out.println("I love to play cricket")
 }
 }
 
