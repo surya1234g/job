@@ -2,6 +2,9 @@ class haddy
 {
 public static void main(String [] args)
 {
+int i,j,result;
+result = i+j;
+System.out.println(result)
 System.out.println("My name is haddy");
 System.out.println("Favourite book rich dad poor dad")
 }
