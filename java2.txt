@@ -3,7 +3,11 @@ class haddy
 public static void main(String [] args)
 {
 System.out.println("My name is haddy");
+<<<<<<< HEAD
 System.out.println("I love to play cricket")
+=======
+System.out.println("Favourite book rich dad poor dad")
+>>>>>>> cd6a682a696f877585218881badc975cb687cf8d
 }
 }
 
